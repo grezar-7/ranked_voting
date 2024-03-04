@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 public class Gui {
-    public static void main(String[] args) {
+    public static void initialTemplate() {
         //create JFrame Object
         JFrame jframe = new JFrame("GUI Screen");
         jframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
